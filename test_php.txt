@@ -17,3 +17,5 @@ echo "$input is a Palindrome number";
 echo "$input is not a Palindrome";
 }
 ?>
+
+// comments
